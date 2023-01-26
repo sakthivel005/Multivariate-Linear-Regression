@@ -5,19 +5,25 @@ To write a python program to implement multivariate linear regression and predic
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
+
 Step1
+
 Open command prompt and activate conda, then open jupyter notebook
 
 Step2
+
 Open a new cell Type the program
 
 Step3
+
 Type the program
 
 Step4
+
 Upload the csv file in the jupyter notebook
 
 Step5
+
 Run the program
 
 ## Program:
